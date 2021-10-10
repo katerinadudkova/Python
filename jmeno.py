@@ -1,0 +1,5 @@
+jmenoPrijmeni=input("Uveďte své jméno a příjmení: ")
+print(jmenoPrijmeni)
+vek=int(input("Jaký je Váš věk? "))
+print(vek)
+print(jmenoPrijmeni, str(vek))
